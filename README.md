@@ -1,2 +1,2 @@
 # Masters
-All projects related to TBS Masters programme
+Netflix movie recommendation engine with Cosine Similarity Collaborative Filtering using R Studio, R Shiny.
